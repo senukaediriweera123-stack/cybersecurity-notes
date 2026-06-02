@@ -2,7 +2,7 @@
 
 Welcome to my cyberscutity learning journey.
 
-##Goals
+## Goals
 
 -learn Python
 -Learn Linux
@@ -11,19 +11,19 @@ Welcome to my cyberscutity learning journey.
 -Build Cybersecurity Projects
 -Become a Security Engineer 
 
-##Progress 
+## Progress 
 
-###Python
--[]Basics
--[]Functions
--[]File Handling
+### Python
+-[ ]Basics
+-[ ]Functions
+-[ ]File Handling
 
-###Linux
--[]Linux Fundementals
+### Linux
+-[ ]Linux Fundementals
 
-###Networking
--[]Networking Basics
+### Networking
+-[ ]Networking Basics
 
-###Try hack me
--[]Pre Security
--[]Introduction to CYbersecurity
+### Try hack me
+-[ ]Pre Security
+-[ ]Introduction to CYbersecurity
