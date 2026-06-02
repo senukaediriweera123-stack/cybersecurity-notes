@@ -26,4 +26,4 @@ Welcome to my cyberscutity learning journey.
 
 ### Try hack me
 -[ ]Pre Security
--[ ]Introduction to CYbersecurity
+-[ ]Introduction to Cybersecurity
