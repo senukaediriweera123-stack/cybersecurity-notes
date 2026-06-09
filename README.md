@@ -11,19 +11,46 @@ Welcome to my cyberscutity learning journey.
 - Build Cybersecurity Projects
 - Become a Security Engineer 
 
-## Progress 
+## Progress
 
 ### Python
-- [ ] Basics
-- [ ] Functions
-- [ ] File Handling
+- [x] Variables
+- [x] Functions
+- [x] Parameters
+- [x] Arguments
+- [x] Return
+- [x] Lists
+- [x] Loops
+- [x] If Statements
 
 ### Linux
-- [ ] Linux Fundementals
+- [x] pwd
+- [x] ls
+- [x] cd
+- [x] mkdir
+- [x] touch
+- [x] cat
+- [x] whoami
+- [x] Users
+- [x] Root
+- [x] Permissions
 
 ### Networking
-- [ ] Networking Basics
+- [x] IP Addresses
+- [x] DNS
+- [x] Servers
+- [x] Public vs Private IPs
+- [x] Ports
+- [x] Packets
+- [x] Protocols
 
-### Try hack me
-- [ ] Pre Security
-- [ ] Introduction to Cybersecurity
+### Security Analysis
+- [x] Logs
+- [x] Evidence vs Assumptions
+- [x] Basic Incident Investigation
+
+### Upcoming
+- [ ] Git & GitHub
+- [ ] TryHackMe
+- [ ] Port Scanner Project
+
